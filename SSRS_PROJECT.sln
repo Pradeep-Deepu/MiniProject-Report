@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "SSRS_PROJECT", "SSRS_PROJECT\SSRS_PROJECT.rptproj", "{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}.Debug|Default.ActiveCfg = Debug
+		{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}.Debug|Default.Build.0 = Debug
+		{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}.Debug|Default.Deploy.0 = Debug
+		{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}.DebugLocal|Default.Build.0 = DebugLocal
+		{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}.Release|Default.ActiveCfg = Release
+		{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}.Release|Default.Build.0 = Release
+		{5FA2F18A-C382-4CB1-B86C-57399CC25C7C}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

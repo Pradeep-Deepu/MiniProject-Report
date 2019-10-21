@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource1">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=BLRINFORMA;Initial Catalog=AdventureWorksDW2016</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>d5a481e7-3c9b-4ab4-9c51-d63fbb0a222e</DataSourceID>
+</RptDataSource>
